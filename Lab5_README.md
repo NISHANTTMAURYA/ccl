@@ -13,7 +13,7 @@ The architecture consists of:
 - Private VPC connectivity between EC2 and RDS
 
 **EC2 Public URL:**  
-<ADD_EC2_PUBLIC_URL_HERE>
+http://13.60.236.88
 
 ---
 
@@ -34,7 +34,7 @@ The architecture consists of:
 4. Configure DB identifier: lab5-mysql
 5. Configure credentials and launch database
 
-RDS Endpoint: <ADD_RDS_ENDPOINT_HERE>
+RDS Endpoint: `lab5-mysql.cfq0egguaw17.eu-north-1.rds.amazonaws.com`
 
 ---
 
@@ -84,5 +84,5 @@ GitHub Repo: <ADD_GITHUB_REPO_LINK_HERE>
 ---
 
 ## 📝 Author
-Name: <ADD_NAME>
-Roll No: <ADD_ROLL_NO>
+Name: Nishant Maurya  
+Roll No: 10259
